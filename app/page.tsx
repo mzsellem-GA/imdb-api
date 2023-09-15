@@ -37,6 +37,9 @@ export default async function Index() {
         </div>
       </nav>
       </div>
+      <div>
+        <h1 className='font-bold'>HOME PAGE</h1>
+      </div>
     </>
   )
 }

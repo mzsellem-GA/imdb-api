@@ -4,7 +4,10 @@ export default function ShowMovies() {
    return (
       <>
          <Link href="/">HOME</Link>
-         <h1>client</h1>
+         <div className="font-bold m-6">
+            <h1>MOVIE LIST</h1>
+         </div>
+      
       </>
    );
 }
